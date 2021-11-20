@@ -12,7 +12,7 @@
 <p> You can also see the code in the repository: https://github.com/eibuiatti-projects/Mi-Web-Personal-Frontend</p><br>
 
 <h3>Contact</h3>
-<p>Email: eibuiatti@gmail.com.ar</p>
+<p>Email: eibuiatti@gmail.com</p>
 <p>Linkedin: https://www.linkedin.com/in/ernesto-buiatti-411655174/</p>
 
 
