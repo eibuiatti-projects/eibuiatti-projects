@@ -1,15 +1,11 @@
 <h1>Welcome! I'm Ernesto :smile: and this is my profile...</h1><br> 
 
 <h3>About me</h3>
-<p> I am a passionate FullStack Web Developer with more than 8 months of work experience and constantly learning in the IT world.</p>
+<p> I am a passionate FullStack Web Developer with more than 2 years of work experience and constantly learning in the IT world.</p>
 <p>After 20 years of experience in electronics, using logic and programming as a cornerstone to solve problems, I decided to take advantage of these foundations that I have ingrained since my inception and change my course towards software development.</p><br>
 
 <h3>Technologies</h3>
-<p>React Js, Node Js, Express, MongoDB, Postgres, Javascript, HTML, CSS, SASS, Bootstrap, Git</p><br>
-
-<h3>Website</h3>
-<p>I invite you to visit my Personal Website and send me a message through your contact section: https://ernesto-buiatti-mi-web-personal.vercel.app/ </p>
-<p> You can also see the code in the repository: https://github.com/eibuiatti-projects/Mi-Web-Personal-Frontend</p><br>
+<p>React Js, Redux, MobX, Hooks, Node Js, Express, MongoDB, Postgres, Javascript, HTML, CSS, SASS, Bootstrap, Jest, Cypress, Rest, Rest Api, Git, GitHub</p><br>
 
 <h3>Contact</h3>
 <p>Email: eibuiatti@gmail.com</p>
