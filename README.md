@@ -11,7 +11,7 @@
 
 <h3>Contact</h3>
 <p>Email: eibuiatti@gmail.com</p>
-<p>Linkedin: https://www.linkedin.com/in/ernesto-buiatti-411655174/</p>
+<p>Linkedin: https://www.linkedin.com/in/ernesto-buiatti/</p>
 
 
 
